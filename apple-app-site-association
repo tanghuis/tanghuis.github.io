@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "2SUV42ZWCY.com.cnnb.yongpai",
-                "paths": [ "/news/detail/*", "/news/pinglun/*"]
+                "paths": [ "/index.html", "/news/pinglun/*"]
             },
             {
                 "appID": "2SUV42ZWCY1.com.cnnb.yongpai",
